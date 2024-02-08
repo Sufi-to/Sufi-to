@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sufi-to
-- 👀 I’m interested in web development, machine learning and datascience.
-- 🌱 I’m currently learning backend web development with django and some javescript frontend frameworks
+- 👀 I’m interested in web development, machine learning and data-science.
+- 🌱 I’m currently learning backend web development with django/drf and some javescript frontend frameworks
 - 💞️ I’m looking to collaborate on any project that involves web dev and datascience
 - 📫 You reach me at 3thomas225@gmail.com
 
