@@ -22,9 +22,8 @@ Short description or tagline about the project. Highlight any achievements or ou
 ## 🛠️ Skills
 
 - **Languages:** [C, Python, Javascript, bash, java]
-- **Frameworks:** [Express, Django, React, Vue, Flask, FastApi, Springboot, ]
-- **Tools:** [List of Tools]
-- **Other:** [Other Relevant Skills]
+- **Frameworks:** [Express, Django, React, Vue, Flask, FastApi, Springboot]
+
 
 ## 🌱 Currently Learning
 
