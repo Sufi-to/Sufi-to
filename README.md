@@ -32,5 +32,4 @@ I'm always open to exciting projects and collaborations. If you have an idea or 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufi-to&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufi-to&layout=donut-vertical)](https://github.com/Sufi-to/github-readme-stats)
 
