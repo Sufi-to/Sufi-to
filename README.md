@@ -30,5 +30,5 @@ I'm always open to exciting projects and collaborations. If you have an idea or 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sufi-to.Sufi-to)](https://github.com/Sufi-to)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufi-to)](https://github.com/Sufi-to/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufi-to&show_icons=true&theme=radical)
 
