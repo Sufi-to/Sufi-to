@@ -7,17 +7,6 @@
 
 I'm a passionate [Software Engineer] with a keen interest in [Web develpment and Data Science]. Currently, I'm [working on some personal projects.].
 
-## 🚀 My Projects
-
-### Project 1: [Project Name 1]
-Short description or tagline about the project. Include any key features or technologies used.
-
-[![Project 1](project1-thumbnail.jpg)](link-to-project1)
-
-### Project 2: [Project Name 2]
-Short description or tagline about the project. Highlight any achievements or outcomes.
-
-[![Project 2](project2-thumbnail.jpg)](link-to-project2)
 
 ## 🛠️ Skills
 
