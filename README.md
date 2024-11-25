@@ -5,24 +5,24 @@
 
 ## About Me
 
-I'm a passionate [Software Engineer] with a keen interest in [Web develpment and Data Science]. Currently, I'm [working on some personal projects.].
+I'm a passionate Software Engineer with a keen interest in Web develpment and Data Science. Currently, I'm working on some personal projects.
 
 
 ## 🛠️ Skills
 
-- **Languages:** [C, Python, Javascript, bash, java]
-- **Frameworks:** [Express, Django, React, Vue, Flask, FastApi, Springboot]
+- **Languages:** C, Python, Javascript, bash, java
+- **Frameworks:** Express, Django, React, Vue, Flask, FastApi, Springboot
 
 
 ## 🌱 Currently Learning
 
-- [Software Engineering]
-- [Data Science]
+- Software Engineering
+- Data Science
 
 ## 📫 Let's Connect
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tomas-teclehaimanot)
-- GitHub: [My GitHub Profile](https://github.com/Sufi-to)
+- LinkedIn: My LinkedIn Profile](https://www.linkedin.com/in/tomas-teclehaimanot)
+- GitHub: My GitHub Profile](https://github.com/Sufi-to)
 
 ## 🤝 Open to Collaboration
 
