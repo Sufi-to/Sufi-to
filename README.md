@@ -21,8 +21,8 @@ I'm a passionate Software Engineer with a keen interest in Web develpment and Da
 
 ## 📫 Let's Connect
 
-- LinkedIn: My LinkedIn Profile](https://www.linkedin.com/in/tomas-teclehaimanot)
-- GitHub: My GitHub Profile](https://github.com/Sufi-to)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tomas-teclehaimanot)
+- GitHub: [My GitHub Profile](https://github.com/Sufi-to)
 
 ## 🤝 Open to Collaboration
 
