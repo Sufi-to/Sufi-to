@@ -28,6 +28,12 @@ I'm a passionate Software Engineer with a keen interest in Web develpment and Da
 
 I'm always open to exciting projects and collaborations. If you have an idea or want to work together, feel free to reach out!
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sufi-to.Sufi-to)](https://github.com/Sufi-to)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufi-to&show_icons=true&theme=radical)
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sufi-to&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Sufi-to's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufi-to&theme=tokyonight&hide_border=true" alt="Sufi-to's Streak" height="165">
+  </p>
+</div>
